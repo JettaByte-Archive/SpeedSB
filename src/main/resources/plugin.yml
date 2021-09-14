@@ -1,0 +1,8 @@
+name: SpeedSbnip
+version: '${project.version}'
+main: jettabyte.speedsbnip.SpeedSbnip
+api-version: 1.17
+prefix: [ SSB ]
+authors: [ JettaByte ]
+description: Spped SB By JettaByte
+website: ingpungya.cf
